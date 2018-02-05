@@ -12,9 +12,9 @@ void main()
         b=b/10;
     }
     if(a==d)
-    printf(" yes the given number %d is armstrong number",a);
+    printf(" yes the given number %d is a armstrong number",a);
     else
-    printf(" no the given number %d is not armstrong numner",a);
+    printf(" no the given number %d is not a armstrong numner",a);
 }
 
 
